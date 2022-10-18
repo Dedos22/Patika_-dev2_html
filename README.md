@@ -1,4 +1,5 @@
 # Patika_-homework2_html
+<a href="https://patika.dev.com">Patika</a> 
 Ödev2
 Sayfanıza bir adet resim ekleyin ve bu resime bir açıklama yazın.
 Sevdiğiniz film, dizi ve kitapları bunlar başlıklar olacak şekilde sıralayınız. (Film, dizi, kitap sıralı liste, içerikleri bullet liste olacak şekilde)
